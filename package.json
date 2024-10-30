@@ -1,7 +1,10 @@
 {
   "name": "nsg-cli",
   "version": "1.0.0",
-  "main": "dist/bin/cli.js",
+  "descriptiom": "A node cli to generate a basic node server",
+  "keywords": ["node", "express", "server", "REST"],
+  "author": {"name": "manuegp"},
+  "license":"MIT",
   "bin": {
     "nsg": "./dist/bin/cli.js"
   },
